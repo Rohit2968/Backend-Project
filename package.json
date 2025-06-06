@@ -17,6 +17,7 @@
     "pretier": "^0.0.1"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.5.0"
   }
 }
